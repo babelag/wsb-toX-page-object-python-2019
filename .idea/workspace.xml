@@ -10,12 +10,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="tests_main_page.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="tests_main_page.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/MainPage/tests_main_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="21" column="86" lean-forward="true" selection-start-line="21" selection-start-column="86" selection-end-line="21" selection-end-column="86" />
+            <state relative-caret-position="3024">
+              <caret line="189" column="25" lean-forward="true" selection-start-line="189" selection-start-column="25" selection-end-line="189" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests_career_page.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/CareersPage/tests_career_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_all.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/test_all.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -35,11 +59,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/tests/maintest.py" />
+        <option value="$PROJECT_DIR$/tests/CareersPage/test_career_page.py" />
+        <option value="$PROJECT_DIR$/tests/test_all.py" />
         <option value="$PROJECT_DIR$/tests/MainPage/tests_main_page.py" />
+        <option value="$PROJECT_DIR$/tests/CareersPage/tests_career_page.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="735" />
     <option name="y" value="6" />
     <option name="width" value="960" />
@@ -62,6 +90,18 @@
               <item name="wsb-toX-page-object-python-2019" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="wsb-toX-page-object-python-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wsb-toX-page-object-python-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="CareersPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wsb-toX-page-object-python-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wsb-toX-page-object-python-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="MainPage" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -70,7 +110,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Babel\Desktop\Praca dyplomowa\wsb-toX-page-object-python-2019\tests" />
+      <recent name="C:\Users\Babel\Desktop\Praca dyplomowa\wsb-toX-page-object-python-2019\tests\MainPage" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -84,19 +131,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in tests_main_page.py">
-    <configuration name="Unittests for tests_main_page.MainPageTestsAdvaOptical.test_page_is_scrollable" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in test_all.py">
+    <configuration name="Unittests for tests_career_page.MainPageTestsAdvaOptical.test_filter_job_opportunities_button" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="wsb-toX-page-object-python-2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/MainPage" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/CareersPage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests_main_page.MainPageTestsAdvaOptical.test_page_is_scrollable&quot;" />
+      <option name="_new_target" value="&quot;tests_career_page.MainPageTestsAdvaOptical.test_filter_job_opportunities_button&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for tests_career_page.MainPageTestsAdvaOptical.test_logo_available" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="wsb-toX-page-object-python-2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/CareersPage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests_career_page.MainPageTestsAdvaOptical.test_logo_available&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for tests_career_page.MainPageTestsAdvaOptical.test_page_title" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="wsb-toX-page-object-python-2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/CareersPage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests_career_page.MainPageTestsAdvaOptical.test_page_title&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_all.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="wsb-toX-page-object-python-2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_all.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="Unittests in tests_main_page.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="wsb-toX-page-object-python-2019" />
@@ -113,12 +199,18 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.Unittests in tests_main_page.py" />
-      <item itemvalue="Python tests.Unittests for tests_main_page.MainPageTestsAdvaOptical.test_page_is_scrollable" />
+      <item itemvalue="Python tests.Unittests in test_all.py" />
+      <item itemvalue="Python tests.Unittests for tests_career_page.MainPageTestsAdvaOptical.test_page_title" />
+      <item itemvalue="Python tests.Unittests for tests_career_page.MainPageTestsAdvaOptical.test_logo_available" />
+      <item itemvalue="Python tests.Unittests for tests_career_page.MainPageTestsAdvaOptical.test_filter_job_opportunities_button" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_all.py" />
+        <item itemvalue="Python tests.Unittests for tests_career_page.MainPageTestsAdvaOptical.test_filter_job_opportunities_button" />
+        <item itemvalue="Python tests.Unittests for tests_career_page.MainPageTestsAdvaOptical.test_logo_available" />
+        <item itemvalue="Python tests.Unittests for tests_career_page.MainPageTestsAdvaOptical.test_page_title" />
         <item itemvalue="Python tests.Unittests in tests_main_page.py" />
-        <item itemvalue="Python tests.Unittests for tests_main_page.MainPageTestsAdvaOptical.test_page_is_scrollable" />
       </list>
     </recent_temporary>
   </component>
@@ -136,35 +228,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_tests_main_page_MainPageTestsAdvaOptical_test_page_is_scrollable - 2019.03.03 at 21h 01m 16s.xml">
-      <configuration name="Unittests for tests_main_page.MainPageTestsAdvaOptical.test_page_is_scrollable" configurationId="tests" />
+    <history-entry file="Unittests_in_test_all_py - 2019.03.17 at 20h 30m 35s.xml">
+      <configuration name="Unittests in test_all.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_main_page_MainPageTestsAdvaOptical_test_page_is_scrollable - 2019.03.03 at 21h 03m 12s.xml">
-      <configuration name="Unittests for tests_main_page.MainPageTestsAdvaOptical.test_page_is_scrollable" configurationId="tests" />
+    <history-entry file="Unittests_for_tests_career_page_MainPageTestsAdvaOptical_test_page_title - 2019.03.17 at 20h 41m 56s.xml">
+      <configuration name="Unittests for tests_career_page.MainPageTestsAdvaOptical.test_page_title" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_main_page_MainPageTestsAdvaOptical_test_page_is_scrollable - 2019.03.03 at 21h 04m 30s.xml">
-      <configuration name="Unittests for tests_main_page.MainPageTestsAdvaOptical.test_page_is_scrollable" configurationId="tests" />
+    <history-entry file="Unittests_for_tests_career_page_MainPageTestsAdvaOptical_test_page_title - 2019.03.17 at 20h 43m 15s.xml">
+      <configuration name="Unittests for tests_career_page.MainPageTestsAdvaOptical.test_page_title" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_main_page_MainPageTestsAdvaOptical_test_page_is_scrollable - 2019.03.03 at 21h 05m 09s.xml">
-      <configuration name="Unittests for tests_main_page.MainPageTestsAdvaOptical.test_page_is_scrollable" configurationId="tests" />
+    <history-entry file="Unittests_for_tests_career_page_MainPageTestsAdvaOptical_test_logo_available - 2019.03.17 at 20h 44m 58s.xml">
+      <configuration name="Unittests for tests_career_page.MainPageTestsAdvaOptical.test_logo_available" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_main_page_MainPageTestsAdvaOptical_test_page_is_scrollable - 2019.03.03 at 21h 05m 41s.xml">
-      <configuration name="Unittests for tests_main_page.MainPageTestsAdvaOptical.test_page_is_scrollable" configurationId="tests" />
+    <history-entry file="Unittests_for_tests_career_page_MainPageTestsAdvaOptical_test_logo_available - 2019.03.17 at 20h 45m 17s.xml">
+      <configuration name="Unittests for tests_career_page.MainPageTestsAdvaOptical.test_logo_available" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_main_page_MainPageTestsAdvaOptical_test_page_is_scrollable - 2019.03.03 at 21h 07m 28s.xml">
-      <configuration name="Unittests for tests_main_page.MainPageTestsAdvaOptical.test_page_is_scrollable" configurationId="tests" />
+    <history-entry file="Unittests_for_tests_career_page_MainPageTestsAdvaOptical_test_logo_available - 2019.03.17 at 20h 46m 15s.xml">
+      <configuration name="Unittests for tests_career_page.MainPageTestsAdvaOptical.test_logo_available" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_tests_main_page_MainPageTestsAdvaOptical_test_page_is_scrollable - 2019.03.03 at 21h 08m 55s.xml">
-      <configuration name="Unittests for tests_main_page.MainPageTestsAdvaOptical.test_page_is_scrollable" configurationId="tests" />
+    <history-entry file="Unittests_for_tests_career_page_MainPageTestsAdvaOptical_test_filter_job_opportunities_button - 2019.03.17 at 20h 49m 15s.xml">
+      <configuration name="Unittests for tests_career_page.MainPageTestsAdvaOptical.test_filter_job_opportunities_button" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_tests_main_page_py - 2019.03.03 at 21h 11m 47s.xml">
-      <configuration name="Unittests in tests_main_page.py" configurationId="tests" />
+    <history-entry file="Unittests_for_tests_career_page_MainPageTestsAdvaOptical_test_logo_available - 2019.03.17 at 20h 49m 18s.xml">
+      <configuration name="Unittests for tests_career_page.MainPageTestsAdvaOptical.test_logo_available" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_tests_main_page_py - 2019.03.03 at 21h 12m 40s.xml">
-      <configuration name="Unittests in tests_main_page.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_all_py - 2019.03.17 at 20h 52m 15s.xml">
+      <configuration name="Unittests in test_all.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_tests_main_page_py - 2019.03.03 at 21h 13m 17s.xml">
-      <configuration name="Unittests in tests_main_page.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_all_py - 2019.03.17 at 20h 54m 04s.xml">
+      <configuration name="Unittests in test_all.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -173,20 +265,20 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12291667" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32908705" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32908705" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32908705" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
@@ -196,8 +288,54 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tests/MainPage/tests_main_page.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="86" selection-start-line="21" selection-start-column="86" selection-end-line="21" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/MainPage/tests_main_page.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="21" column="86" lean-forward="true" selection-start-line="21" selection-start-column="86" selection-end-line="21" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/MainPage/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/MainPage/tests_main_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3024">
+          <caret line="189" column="25" lean-forward="true" selection-start-line="189" selection-start-column="25" selection-end-line="189" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/CareersPage/tests_career_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
