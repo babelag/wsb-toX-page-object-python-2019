@@ -76,7 +76,7 @@ class MainPageTestsAdvaOptical(unittest.TestCase):
         :return: ADVA Optical Networking
         '''
         title = self.driver.title
-        expected = "ADVA Optical Networking"
+        expected = "ADVA"
 
         self.assertEqual(title, expected, "Title is not correct")
 
